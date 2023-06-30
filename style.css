@@ -1,0 +1,18 @@
+*{
+    text-align:center;
+    background-image: url('pokemon-bg.jpg');
+}
+#board{
+    width:475px;
+    height:532px;
+    display:flex;
+    flex-wrap: wrap;
+    background-color:white;
+    margin:0 auto;
+    border:10px solid grey;
+}
+.card{
+    width:90px;
+    height:128px;
+    margin:2.5px;
+}
